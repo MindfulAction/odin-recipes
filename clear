@@ -1,0 +1,29 @@
+[33mcommit d4dac7ecd34e8fd1a6aa6ded296aa8ed9e136e98[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: John Kelly <jpkjpk98@me.com>
+Date:   Fri Sep 30 11:50:51 2022 -0700
+
+    Add ingredients section with ul
+
+[33mcommit f577ead694e4ec0bcf9d4d197f89284e7999304f[m
+Author: John Kelly <jpkjpk98@me.com>
+Date:   Fri Sep 30 11:43:48 2022 -0700
+
+    Add description of Lasagna recipe
+
+[33mcommit 3151bb8db3a1488ad232afc3ec8cf481fed25286[m
+Author: John Kelly <jpkjpk98@me.com>
+Date:   Fri Sep 30 11:37:20 2022 -0700
+
+    Add image of lasagna on lasagna page
+
+[33mcommit 9e5b4153e14edc08dca26f59062c9b21e1575961[m
+Author: John Kelly <jpkjpk98@me.com>
+Date:   Fri Sep 30 11:21:21 2022 -0700
+
+    Create homepage & link to lasagna recipe page
+
+[33mcommit cca08f533c419efc821bd91d667d6415a6f82307[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: MindfulAction <114689061+MindfulAction@users.noreply.github.com>
+Date:   Fri Sep 30 11:03:27 2022 -0700
+
+    Initial commit
